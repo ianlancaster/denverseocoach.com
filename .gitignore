@@ -58,10 +58,9 @@ Thumbs.db
 *.sublime-workspace
 *.komodoproject
 
-# ignore log files and databases
+# ignore log file
 *.log
-*.sql
-*.sqlite
+
 
 # ignore compiled files
 *.com
